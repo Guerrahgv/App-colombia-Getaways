@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Cartagena, La Ciudad Amurallada",
+    "city": "Cartagena",
+    "address": "Norte de colombia",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Cartagena, ubicada en la costa caribeña de Colombia, es una ciudad histórica y encantadora que combina magnífica arquitectura colonial, hermosas playas y una rica cultura.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Santamarta, La Perla de America",
+    "city": "Santa Marta",
+    "address": "Norte de Colombia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Santa Marta, ubicada en la costa norte de Colombia, es una encantadora ciudad costera con una combinación única de hermosas playas, paisajes naturales impresionantes y una rica historia.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Riohacha, La Fenix del Caribe",
+    "city": "Riohacha",
+    "address": "Norte de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Riohacha, ubicada en la región caribeña de Colombia, es una ciudad con una rica historia, cultura indígena y una ubicación privilegiada cerca del mar Caribe.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Risaralda, La Ciudad Magica",
+    "city": "La Virginia",
+    "address": "Sur de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Risaralda es un departamento ubicado en la región cafetera de Colombia, conocida por su exuberante paisaje montañoso, sus plantaciones de café y su rica biodiversidad.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rivera, La Capital Del Rio",
+    "city": "Neiva",
+    "address": "Sur de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Tanto Neiva como Rivera ofrecen una combinación de belleza natural, historia y cultura. Desde el impresionante desierto de Tatacoa hasta el majestuoso río Magdalena y los misteriosos monumentos arqueológicos de San Agustín, estas ciudades te invitan a descubrir la diversidad y el encanto del departamento de Huila.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Medellin, Ciudad de la Eterna Primavera",
+    "city": "Medellin",
+    "address": "Norte de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Medellín, ubicada en el departamento de Antioquia en Colombia, es una vibrante y moderna ciudad conocida por su belleza, su clima primaveral y su destacada transformación urbana.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pereira, La ciudad Sin Puertas",
+    "city": "Pererira",
+    "address": "Sur de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "es una ciudad dinámica y moderna que combina la belleza natural de la región cafetera con un ambiente urbano vibrante.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Valledupar, Ciudad de los Santos Reyes",
+    "city": "Valledupar",
+    "address": "Norte de Colombia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Valledupar, ubicada en el departamento de Cesar en Colombia, es una ciudad que se destaca por su rica cultura vallenata, su encanto colonial y su posición como la capital mundial del vallenato.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "lorem",
+    "city": "lorem",
+    "address": "lorem",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "lorem",
+    "city": "lorem",
+    "address": "lorem",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": false
+  }
+]
