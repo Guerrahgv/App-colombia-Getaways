@@ -5,8 +5,8 @@ Proyecto que muestra un poco de un booking sobre escapadas o viajes por colombia
   ---
   
 <div align="center">
-  ![capturaProyecto](https://github.com/Guerrahgv/App-colombia-Getaways/assets/28674788/9de25f8b-f927-43b2-ab07-b3338169b297)
-
+  ![capturaProyecto]()
+<img src="https://github.com/Guerrahgv/App-colombia-Getaways/assets/28674788/9de25f8b-f927-43b2-ab07-b3338169b297" title="Colombia Getaways" **alt="Git" width="800" height="400"/>
 </div>
 
 ---
