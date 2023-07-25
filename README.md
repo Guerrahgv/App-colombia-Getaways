@@ -11,5 +11,5 @@ Proyecto que muestra un poco de un booking sobre escapadas o viajes por colombia
 ---
    
 <div align="center">
-<a href="https://guerrahgv.github.io/home" target="_blank">Demo👍</a>
+<a href="https://guerrahgv.github.io/App-colombia-Getaways/" target="_blank">Demo👍</a>
 </div>     
