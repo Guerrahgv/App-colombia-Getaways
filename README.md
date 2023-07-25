@@ -1,8 +1,15 @@
-# React + Vite
+# App-colombia-Getaways
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto que muestra un poco de un booking sobre escapadas o viajes por colombia, mostrando lo hermoso que podemos encontrar en esta tierra linda llena de alegria e historia.
+  
+  ---
+  
+<div align="center">
+<img src="https://github.com/Guerrahgv/App-colombia-Getaways/assets/capturaProyecto.png" title="Colombia Getaways" **alt="Git" width="800" height="400"/>
+</div>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+   
+<div align="center">
+<a href="https://guerrahgv.github.io/home" target="_blank">Demo👍</a>
+</div>     
