@@ -11,7 +11,7 @@ import ThankYou from '../pages/ThankYou';
 const Router = () => {
   return (
     <Routes>
-        <Route path='/' element={<Navigate to='/home' />} />
+        <Route path="/" element={<Navigate to='/home' />} />
         <Route path='/home' element={<Home/>} />
         <Route path='/booking' element={<Booking/>} />
         <Route path='/booking/:id' element={<BookingDetails/>} />
